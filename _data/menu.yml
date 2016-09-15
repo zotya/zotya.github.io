@@ -12,6 +12,8 @@
 - text: IT-systems
   url: /IT-systems
   subitems:
+    - text: eea.googlecharts
+      url: /IT-systems/eea.googlecharts
     - text: Data Dictionary (DD)
       url: /IT-systems/Data-Dictionary
       subitems:
