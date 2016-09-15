@@ -2,7 +2,7 @@
 title: Welcome to the EEA and Eionet documentation hub
 ---
 
-# Welcome!
+# Welcome1!
 
 ## About us
 
