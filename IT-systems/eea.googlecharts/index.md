@@ -1,3 +1,7 @@
+---
+title: EEA Google Charts
+---
+
 =================
 EEA Google Charts
 =================
