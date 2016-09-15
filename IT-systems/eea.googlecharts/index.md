@@ -5,7 +5,7 @@ title: EEA Google Charts
 
 # EEA Google Charts
 
-[[aaa](http://ci.eionet.europa.eu/job/eea.googlecharts-www/badge/icon)](asdf)
+[![DD overview](http://ci.eionet.europa.eu/job/eea.googlecharts-www/badge/icon)](DD-Overview.png "DD overview diagram - click to enlarge")
   :target: http://ci.eionet.europa.eu/job/eea.googlecharts-www/lastBuild
 .. image:: http://ci.eionet.europa.eu/job/eea.googlecharts-www/badge/icon
   :target: http://ci.eionet.europa.eu/job/eea.googlecharts-www/lastBuild
