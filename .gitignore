@@ -1,0 +1,7 @@
+_site
+.sass-cache
+.jekyll-metadata
+.cmd
+/Gemfile
+/Gemfile.lock
+/run_local_server.cmd
