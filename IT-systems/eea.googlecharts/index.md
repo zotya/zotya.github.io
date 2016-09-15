@@ -2,9 +2,9 @@
 title: EEA Google Charts
 ---
 
-=================
-EEA Google Charts
-=================
+
+# EEA Google Charts
+
 .. image:: http://ci.eionet.europa.eu/job/eea.googlecharts-www/badge/icon
   :target: http://ci.eionet.europa.eu/job/eea.googlecharts-www/lastBuild
 .. image:: http://ci.eionet.europa.eu/job/eea.googlecharts-plone4/badge/icon
