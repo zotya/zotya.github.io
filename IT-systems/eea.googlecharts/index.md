@@ -5,11 +5,8 @@ title: EEA Google Charts
 
 # EEA Google Charts
 
-[![DD overview](http://ci.eionet.europa.eu/job/eea.googlecharts-www/badge/icon)](DD-Overview.png "DD overview diagram - click to enlarge")
-  :target: http://ci.eionet.europa.eu/job/eea.googlecharts-www/lastBuild
-.. image:: http://ci.eionet.europa.eu/job/eea.googlecharts-www/badge/icon
-  :target: http://ci.eionet.europa.eu/job/eea.googlecharts-www/lastBuild
-.. image:: http://ci.eionet.europa.eu/job/eea.googlecharts-plone4/badge/icon
+[![jenkins www build status](http://ci.eionet.europa.eu/job/eea.googlecharts-www/badge/icon)]
+   image:: http://ci.eionet.europa.eu/job/eea.googlecharts-plone4/badge/icon
   :target: http://ci.eionet.europa.eu/job/eea.googlecharts-plone4/lastBuild
 .. image:: http://ci.eionet.europa.eu/job/eea.googlecharts-zope/badge/icon
   :target: http://ci.eionet.europa.eu/job/eea.googlecharts-zope/lastBuild
