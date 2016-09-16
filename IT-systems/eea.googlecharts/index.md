@@ -5,7 +5,7 @@ title: EEA Google Charts
 
 # EEA Google Charts
 
-[![jenkins www build status](http://ci.eionet.europa.eu/job/eea.googlecharts-www/badge/icon)]
+![jenkins www build status](http://ci.eionet.europa.eu/job/eea.googlecharts-www/badge/icon)
    image:: http://ci.eionet.europa.eu/job/eea.googlecharts-plone4/badge/icon
   :target: http://ci.eionet.europa.eu/job/eea.googlecharts-plone4/lastBuild
 .. image:: http://ci.eionet.europa.eu/job/eea.googlecharts-zope/badge/icon
