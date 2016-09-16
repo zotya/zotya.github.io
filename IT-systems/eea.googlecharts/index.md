@@ -6,10 +6,8 @@ title: EEA Google Charts
 # EEA Google Charts
 
 [![jenkins www build status](http://ci.eionet.europa.eu/job/eea.googlecharts-www/badge/icon)]( http://ci.eionet.europa.eu/job/eea.googlecharts-www/lastBuild)
-   image:: http://ci.eionet.europa.eu/job/eea.googlecharts-plone4/badge/icon
-  :target: http://ci.eionet.europa.eu/job/eea.googlecharts-plone4/lastBuild
-.. image:: http://ci.eionet.europa.eu/job/eea.googlecharts-zope/badge/icon
-  :target: http://ci.eionet.europa.eu/job/eea.googlecharts-zope/lastBuild
+[![jenkins plone4 build status](http://ci.eionet.europa.eu/job/eea.googlecharts-plone4/badge/icon)]( http://ci.eionet.europa.eu/job/eea.googlecharts-plone4/lastBuild)
+[![jenkins zope build status](http://ci.eionet.europa.eu/job/eea.googlecharts-zope/badge/icon)]( http://ci.eionet.europa.eu/job/eea.googlecharts-zope/lastBuild)
 
 `EEA Google Charts`_ provides `Google Charts`_ framework integration for
 `eea.app.visualization`_. See `eea.daviz`_ package for more details.
