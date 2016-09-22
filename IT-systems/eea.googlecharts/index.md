@@ -1,5 +1,4 @@
 ---
-title: EEA Google Charts
 ---
 
 
