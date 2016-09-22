@@ -1,6 +1,7 @@
 ---
 ---
 
+# EEA Google Charts
 
 
 [![jenkins www build status](http://ci.eionet.europa.eu/job/eea.googlecharts-www/badge/icon)]( http://ci.eionet.europa.eu/job/eea.googlecharts-www/lastBuild)
