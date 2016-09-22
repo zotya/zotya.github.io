@@ -2,7 +2,6 @@
 ---
 
 
-# EEA Google Charts
 
 [![jenkins www build status](http://ci.eionet.europa.eu/job/eea.googlecharts-www/badge/icon)]( http://ci.eionet.europa.eu/job/eea.googlecharts-www/lastBuild)
 [![jenkins plone4 build status](http://ci.eionet.europa.eu/job/eea.googlecharts-plone4/badge/icon)]( http://ci.eionet.europa.eu/job/eea.googlecharts-plone4/lastBuild)
