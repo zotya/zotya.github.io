@@ -1,6 +1,6 @@
 ---
 ---
-# EEA Google Charts
+# EEA Google ChartsX
 
 ![http://ci.eionet.europa.eu/job/eea.googlecharts-
 www/badge/icon](http://ci.eionet.europa.eu/job/eea.googlecharts-
