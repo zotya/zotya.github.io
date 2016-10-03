@@ -16,6 +16,8 @@
       url: /IT-systems/Test
     - text: eea.googlecharts
       url: /IT-systems/eea.googlecharts
+    - text: eea.sparql
+      url: /IT-systems/eea.sparql
     - text: Data Dictionary (DD)
       url: /IT-systems/Data-Dictionary
       subitems:
