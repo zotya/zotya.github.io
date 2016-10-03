@@ -1,4 +1,5 @@
 ---
+eea.googlecharts
 ---
 
 #  EEA Google Charts
@@ -88,3 +89,4 @@ More details under docs/License.txt
 ##  Funding
 
 [EEA](http://www.eea.europa.eu/) \- European Environment Agency (EU)
+
