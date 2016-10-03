@@ -2,7 +2,7 @@
 eea.googlecharts
 ---
 
-#  EEA Google Charts
+#  EEA Google ChartsX
 
 [![http://ci.eionet.europa.eu/job/eea.googlecharts-
 www/badge/icon](https://camo.githubusercontent.com/951b9703acf95eb3e3c7e157061fb23f824d8035/687474703a2f2f63692e65696f6e65742e6575726f70612e65752f6a6f622f6565612e676f6f676c656368617274732d7777772f62616467652f69636f6e)](http://ci.eionet.europa.eu/job/eea
