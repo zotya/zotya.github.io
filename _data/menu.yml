@@ -50,6 +50,8 @@
     url: /IT-systems/eea.alchemy
   - text: eea.annotator
     url: /IT-systems/eea.annotator
+  - text: eea.app.visualization
+    url: /IT-systems/eea.app.visualization
   - text: eea.cache
     url: /IT-systems/eea.cache
   - text: eea.daviz
