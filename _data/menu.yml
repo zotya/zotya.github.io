@@ -52,6 +52,8 @@
     url: /IT-systems/eea.sparql
   - text: eea.alchemy
     url: /IT-systems/eea.alchemy
+  - text: eea.annotator
+    url: /IT-systems/eea.annotator
   text: IT-systems
   url: /IT-systems
 - text: Development guidelines
