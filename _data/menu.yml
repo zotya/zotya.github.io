@@ -10,8 +10,6 @@
 - text: The EEA CMS platform
   url: /EEA-CMS
 - subitems:
-  - text: Test
-    url: /IT-systems/Test
   - subitems:
     - text: Introduction
       url: /IT-systems/Data-Dictionary/#introduction
