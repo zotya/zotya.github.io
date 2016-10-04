@@ -1,5 +1,4 @@
 ---
-eea.elasticsearch
 ---
 
 #  EEA ElasticSearch
