@@ -15,4 +15,5 @@ Table of systems, sortable?
 * eea.depiction
 * eea.elasticsearch
 * eea.googlecharts
+* eea.icons
 * eea.sparql
