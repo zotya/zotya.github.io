@@ -1,4 +1,5 @@
 ---
+eea.googlecharts
 ---
 
 #  EEA Google Charts
