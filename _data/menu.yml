@@ -48,10 +48,6 @@
       url: /IT-systems/SDF-Manager/#copyright-and-license
     text: Standard Data Form (SDF) Manager
     url: /IT-systems/SDF-Manager
-  - text: eea.sparql
-    url: /IT-systems/eea.sparql
-  - text: eea.googlecharts
-    url: /IT-systems/eea.googlecharts
   text: IT-systems
   url: /IT-systems
 - text: Development guidelines
