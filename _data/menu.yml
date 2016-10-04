@@ -46,10 +46,6 @@
       url: /IT-systems/SDF-Manager/#copyright-and-license
     text: Standard Data Form (SDF) Manager
     url: /IT-systems/SDF-Manager
-  - text: eea.googlecharts
-    url: /IT-systems/eea.googlecharts
-  - text: eea.sparql
-    url: /IT-systems/eea.sparql
   - text: eea.alchemy
     url: /IT-systems/eea.alchemy
   - text: eea.annotator
@@ -60,8 +56,12 @@
     url: /IT-systems/eea.depiction
   - text: eea.elasticsearch
     url: /IT-systems/eea.elasticsearch
+  - text: eea.googlecharts
+    url: /IT-systems/eea.googlecharts
   - text: eea.icons
     url: /IT-systems/eea.icons
+  - text: eea.sparql
+    url: /IT-systems/eea.sparql
   text: IT-systems
   url: /IT-systems
 - text: Development guidelines
