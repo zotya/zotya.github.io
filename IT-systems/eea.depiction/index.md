@@ -1,5 +1,4 @@
 ---
-eea.depiction
 ---
 
 #  EEA Depiction
