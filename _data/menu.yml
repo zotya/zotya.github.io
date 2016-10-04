@@ -56,6 +56,8 @@
     url: /IT-systems/eea.annotator
   - text: eea.cache
     url: /IT-systems/eea.cache
+  - text: eea.depiction
+    url: /IT-systems/eea.depiction
   text: IT-systems
   url: /IT-systems
 - text: Development guidelines
