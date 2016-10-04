@@ -1,5 +1,4 @@
 ---
-eea.sparql
 ---
 
 #  EEA Sparql
