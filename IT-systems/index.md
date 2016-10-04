@@ -11,5 +11,6 @@ Table of systems, sortable?
 * Standard Data Form Manager for Natura2000 & Emerald (SDF Manager)
 * eea.alchemy
 * eea.annotator
+* eea.cache
 * eea.googlecharts
 * eea.sparql
