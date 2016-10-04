@@ -48,6 +48,8 @@
     url: /IT-systems/SDF-Manager
   - text: eea.googlecharts
     url: /IT-systems/eea.googlecharts
+  - text: eea.sparql
+    url: /IT-systems/eea.sparql
   text: IT-systems
   url: /IT-systems
 - text: Development guidelines
