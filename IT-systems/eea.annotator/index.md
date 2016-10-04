@@ -1,5 +1,4 @@
 ---
-eea.annotator
 ---
 
 #  EEA Annotator
