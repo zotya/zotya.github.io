@@ -58,6 +58,8 @@
     url: /IT-systems/eea.cache
   - text: eea.depiction
     url: /IT-systems/eea.depiction
+  - text: eea.elasticsearch
+    url: /IT-systems/eea.elasticsearch
   text: IT-systems
   url: /IT-systems
 - text: Development guidelines

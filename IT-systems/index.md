@@ -13,5 +13,6 @@ Table of systems, sortable?
 * eea.annotator
 * eea.cache
 * eea.depiction
+* eea.elasticsearch
 * eea.googlecharts
 * eea.sparql
