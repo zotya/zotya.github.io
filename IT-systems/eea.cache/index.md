@@ -1,5 +1,4 @@
 ---
-eea.cache
 ---
 
 #  EEA Cache
