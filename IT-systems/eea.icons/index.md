@@ -1,5 +1,4 @@
 ---
-eea.icons
 ---
 
 #  EEA Icons

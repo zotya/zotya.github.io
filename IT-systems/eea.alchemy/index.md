@@ -1,5 +1,4 @@
 ---
-eea.alchemy
 ---
 
 #  EEA Alchemy
