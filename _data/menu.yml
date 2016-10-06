@@ -48,24 +48,34 @@
     url: /IT-systems/SDF-Manager
   - text: eea.alchemy
     url: /IT-systems/eea.alchemy
+    source: github
   - text: eea.annotator
     url: /IT-systems/eea.annotator
+    source: github
   - text: eea.app.visualization
     url: /IT-systems/eea.app.visualization
+    source: github
   - text: eea.cache
     url: /IT-systems/eea.cache
+    source: github
   - text: eea.daviz
     url: /IT-systems/eea.daviz
+    source: github
   - text: eea.depiction
     url: /IT-systems/eea.depiction
+    source: github
   - text: eea.elasticsearch
     url: /IT-systems/eea.elasticsearch
+    source: github
   - text: eea.googlecharts
     url: /IT-systems/eea.googlecharts
+    source: github
   - text: eea.icons
     url: /IT-systems/eea.icons
+    source: github
   - text: eea.sparql
     url: /IT-systems/eea.sparql
+    source: github
   text: IT-systems
   url: /IT-systems
 - text: Development guidelines
