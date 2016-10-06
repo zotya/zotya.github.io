@@ -60,7 +60,7 @@
       url: /IT-systems/eea.alchemy/#install
     - subitems:
       - text: Auto discover keywords, location, related items or temporal coverage
-        url: /IT-systems/eea.alchemy/#auto-discover-keywords,-location,-related-items-or-temporal-coverage
+        url: /IT-systems/eea.alchemy/#auto-discover-keywords-location-related-items-or-temporal-coverage
       - text: Auto tagging
         url: /IT-systems/eea.alchemy/#auto-tagging
       - text: Auto relations
