@@ -46,6 +46,234 @@
       url: /IT-systems/SDF-Manager/#copyright-and-license
     text: Standard Data Form (SDF) Manager
     url: /IT-systems/SDF-Manager
+  - source: generated
+    subitems:
+    - text: Contents
+      url: /IT-systems/eea.alchemy/#contents
+    - text: Introduction
+      url: /IT-systems/eea.alchemy/#introduction
+    - text: Main features
+      url: /IT-systems/eea.alchemy/#main-features
+    - text: Planed features
+      url: /IT-systems/eea.alchemy/#planed-features
+    - text: Install
+      url: /IT-systems/eea.alchemy/#install
+    - subitems:
+      - text: Auto discover keywords, location, related items or temporal coverage
+        url: /IT-systems/eea.alchemy/#auto-discover-keywords,-location,-related-items-or-temporal-coverage
+      - text: Auto tagging
+        url: /IT-systems/eea.alchemy/#auto-tagging
+      - text: Auto relations
+        url: /IT-systems/eea.alchemy/#auto-relations
+      text: Getting started
+      url: /IT-systems/eea.alchemy/#getting-started
+    - text: Source code
+      url: /IT-systems/eea.alchemy/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.alchemy/#copyright-and-license
+    - text: Funding
+      url: /IT-systems/eea.alchemy/#funding
+    text: EEA Alchemy
+    url: /IT-systems/eea.alchemy
+  - source: generated
+    subitems:
+    - text: Contents
+      url: /IT-systems/eea.annotator/#contents
+    - text: Main features
+      url: /IT-systems/eea.annotator/#main-features
+    - text: Install
+      url: /IT-systems/eea.annotator/#install
+    - text: Getting started
+      url: /IT-systems/eea.annotator/#getting-started
+    - subitems:
+      - text: Dexterity
+        url: /IT-systems/eea.annotator/#dexterity
+      text: Moderate inline comments
+      url: /IT-systems/eea.annotator/#moderate-inline-comments
+    - text: Source code
+      url: /IT-systems/eea.annotator/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.annotator/#copyright-and-license
+    - text: Funding
+      url: /IT-systems/eea.annotator/#funding
+    text: EEA Annotator
+    url: /IT-systems/eea.annotator
+  - source: generated
+    subitems:
+    - text: Introduction
+      url: /IT-systems/eea.cache/#introduction
+    - text: Contents
+      url: /IT-systems/eea.cache/#contents
+    - text: Main features
+      url: /IT-systems/eea.cache/#main-features
+    - text: Install
+      url: /IT-systems/eea.cache/#install
+    - text: Dependencies
+      url: /IT-systems/eea.cache/#dependencies
+    - text: Source code
+      url: /IT-systems/eea.cache/#source-code
+    - text: Cache decorator
+      url: /IT-systems/eea.cache/#cache-decorator
+    - subitems:
+      - text: Cache lifetime override per key
+        url: /IT-systems/eea.cache/#cache-lifetime-override-per-key
+      text: Cache lifetime
+      url: /IT-systems/eea.cache/#cache-lifetime
+    - subitems:
+      - text: memcache.invalidate
+        url: /IT-systems/eea.cache/#memcache.invalidate
+      - text: varnish.invalidate
+        url: /IT-systems/eea.cache/#varnish.invalidate
+      - text: cache.invalidate
+        url: /IT-systems/eea.cache/#cache.invalidate
+      - text: cache.settings
+        url: /IT-systems/eea.cache/#cache.settings
+      text: Invalidate cache
+      url: /IT-systems/eea.cache/#invalidate-cache
+    - text: Copyright and license
+      url: /IT-systems/eea.cache/#copyright-and-license
+    - text: Funding and project management
+      url: /IT-systems/eea.cache/#funding-and-project-management
+    text: EEA Cache
+    url: /IT-systems/eea.cache
+  - source: generated
+    subitems:
+    - text: Introduction
+      url: /IT-systems/eea.daviz/#introduction
+    - text: Main features
+      url: /IT-systems/eea.daviz/#main-features
+    - text: Video Tutorials
+      url: /IT-systems/eea.daviz/#video-tutorials
+    - text: Live demos
+      url: /IT-systems/eea.daviz/#live-demos
+    - text: Architecture overview
+      url: /IT-systems/eea.daviz/#architecture-overview
+    - text: Installation
+      url: /IT-systems/eea.daviz/#installation
+    - subitems:
+      - subitems:
+        - text: Plone
+          url: /IT-systems/eea.daviz/#plone
+        - text: Zope
+          url: /IT-systems/eea.daviz/#zope
+        text: Google Maps API Key
+        url: /IT-systems/eea.daviz/#google-maps-api-key
+      text: zc.buildout
+      url: /IT-systems/eea.daviz/#zc.buildout
+    - text: Dependencies
+      url: /IT-systems/eea.daviz/#dependencies
+    - text: Source code
+      url: /IT-systems/eea.daviz/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.daviz/#copyright-and-license
+    - text: More documentation
+      url: /IT-systems/eea.daviz/#more-documentation
+    - text: Links
+      url: /IT-systems/eea.daviz/#links
+    - text: Funding and project management
+      url: /IT-systems/eea.daviz/#funding-and-project-management
+    text: EEA Daviz
+    url: /IT-systems/eea.daviz
+  - source: generated
+    subitems:
+    - text: Introduction
+      url: /IT-systems/eea.depiction/#introduction
+    - text: Upgrade notes
+      url: /IT-systems/eea.depiction/#upgrade-notes
+    - text: Installation
+      url: /IT-systems/eea.depiction/#installation
+    - text: zc.buildout
+      url: /IT-systems/eea.depiction/#zc.buildout
+    - text: How to specify fallback preview images
+      url: /IT-systems/eea.depiction/#how-to-specify-fallback-preview-images
+    - text: Dependencies
+      url: /IT-systems/eea.depiction/#dependencies
+    - text: Source code
+      url: /IT-systems/eea.depiction/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.depiction/#copyright-and-license
+    - text: Funding and project management
+      url: /IT-systems/eea.depiction/#funding-and-project-management
+    text: EEA Depiction
+    url: /IT-systems/eea.depiction
+  - source: generated
+    subitems:
+    - text: Introduction
+      url: /IT-systems/eea.elasticsearch/#introduction
+    - text: Components
+      url: /IT-systems/eea.elasticsearch/#components
+    - text: Live demos
+      url: /IT-systems/eea.elasticsearch/#live-demos
+    - text: Development instalation using Vagrant
+      url: /IT-systems/eea.elasticsearch/#development-instalation-using-vagrant
+    - text: Installation
+      url: /IT-systems/eea.elasticsearch/#installation
+    - text: Dependencies
+      url: /IT-systems/eea.elasticsearch/#dependencies
+    - text: Source code
+      url: /IT-systems/eea.elasticsearch/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.elasticsearch/#copyright-and-license
+    - text: Funding and project management
+      url: /IT-systems/eea.elasticsearch/#funding-and-project-management
+    text: EEA ElasticSearch
+    url: /IT-systems/eea.elasticsearch
+  - source: generated
+    subitems:
+    - text: Introduction
+      url: /IT-systems/eea.googlecharts/#introduction
+    - text: Main features
+      url: /IT-systems/eea.googlecharts/#main-features
+    - text: Dependencies
+      url: /IT-systems/eea.googlecharts/#dependencies
+    - text: Live demos
+      url: /IT-systems/eea.googlecharts/#live-demos
+    - text: Source code
+      url: /IT-systems/eea.googlecharts/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.googlecharts/#copyright-and-license
+    - text: Funding
+      url: /IT-systems/eea.googlecharts/#funding
+    text: EEA Google Charts
+    url: /IT-systems/eea.googlecharts
+  - source: generated
+    subitems:
+    - text: Introduction
+      url: /IT-systems/eea.icons/#introduction
+    - text: Main features
+      url: /IT-systems/eea.icons/#main-features
+    - text: Install
+      url: /IT-systems/eea.icons/#install
+    - text: Getting started
+      url: /IT-systems/eea.icons/#getting-started
+    - text: Source code
+      url: /IT-systems/eea.icons/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.icons/#copyright-and-license
+    - text: Funding
+      url: /IT-systems/eea.icons/#funding
+    text: EEA Icons
+    url: /IT-systems/eea.icons
+  - source: generated
+    subitems:
+    - text: Introduction
+      url: /IT-systems/eea.sparql/#introduction
+    - text: Main features
+      url: /IT-systems/eea.sparql/#main-features
+    - text: Installation
+      url: /IT-systems/eea.sparql/#installation
+    - text: Dependecies
+      url: /IT-systems/eea.sparql/#dependecies
+    - text: Source code
+      url: /IT-systems/eea.sparql/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.sparql/#copyright-and-license
+    - text: Links
+      url: /IT-systems/eea.sparql/#links
+    - text: Funding
+      url: /IT-systems/eea.sparql/#funding
+    text: EEA Sparql
+    url: /IT-systems/eea.sparql
   text: IT-systems
   url: /IT-systems
 - text: Development guidelines
