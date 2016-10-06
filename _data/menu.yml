@@ -46,53 +46,6 @@
       url: /IT-systems/SDF-Manager/#copyright-and-license
     text: Standard Data Form (SDF) Manager
     url: /IT-systems/SDF-Manager
-  - source: generated
-    subitems:
-    - text: Contents
-      url: /IT-systems/eea.alchemy/#contents
-    - text: Introduction
-      url: /IT-systems/eea.alchemy/#introduction
-    - text: Main features
-      url: /IT-systems/eea.alchemy/#main-features
-    - text: Planed features
-      url: /IT-systems/eea.alchemy/#planed-features
-    - text: Install
-      url: /IT-systems/eea.alchemy/#install
-    - subitems:
-      - text: Auto discover keywords, location, related items or temporal coverage
-        url: /IT-systems/eea.alchemy/#auto-discover-keywords-location-related-items-or-temporal-coverage
-      - text: Auto tagging
-        url: /IT-systems/eea.alchemy/#auto-tagging
-      - text: Auto relations
-        url: /IT-systems/eea.alchemy/#auto-relations
-      text: Getting started
-      url: /IT-systems/eea.alchemy/#getting-started
-    - text: Source code
-      url: /IT-systems/eea.alchemy/#source-code
-    - text: Copyright and license
-      url: /IT-systems/eea.alchemy/#copyright-and-license
-    - text: Funding
-      url: /IT-systems/eea.alchemy/#funding
-    text: EEA Alchemy
-    url: /IT-systems/eea.alchemy
-  - source: generated
-    subitems:
-    - text: Introduction
-      url: /IT-systems/eea.googlecharts/#introduction
-    - text: Main features
-      url: /IT-systems/eea.googlecharts/#main-features
-    - text: Dependencies
-      url: /IT-systems/eea.googlecharts/#dependencies
-    - text: Live demos
-      url: /IT-systems/eea.googlecharts/#live-demos
-    - text: Source code
-      url: /IT-systems/eea.googlecharts/#source-code
-    - text: Copyright and license
-      url: /IT-systems/eea.googlecharts/#copyright-and-license
-    - text: Funding
-      url: /IT-systems/eea.googlecharts/#funding
-    text: EEA Google Charts
-    url: /IT-systems/eea.googlecharts
   text: IT-systems
   url: /IT-systems
 - text: Development guidelines
