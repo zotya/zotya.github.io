@@ -11,4 +11,12 @@ Table of systems, sortable?
 * Standard Data Form Manager for Natura2000 & Emerald (SDF Manager)
 
 <div style="display:none" class="generated_start">generated items start</div>
+* EEA Alchemy
+
+* EEA Google Charts
+
+* EEA App Visualization
+
+* EEA Daviz
+
 <div style="display:none" class="generated_end">generated items end</div>
