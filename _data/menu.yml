@@ -46,6 +46,24 @@
       url: /IT-systems/SDF-Manager/#copyright-and-license
     text: Standard Data Form (SDF) Manager
     url: /IT-systems/SDF-Manager
+  - source: generated
+    subitems:
+    - text: Introduction
+      url: /IT-systems/eea.googlecharts/#introduction
+    - text: Main features
+      url: /IT-systems/eea.googlecharts/#main-features
+    - text: Dependencies
+      url: /IT-systems/eea.googlecharts/#dependencies
+    - text: Live demos
+      url: /IT-systems/eea.googlecharts/#live-demos
+    - text: Source code
+      url: /IT-systems/eea.googlecharts/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.googlecharts/#copyright-and-license
+    - text: Funding
+      url: /IT-systems/eea.googlecharts/#funding
+    text: EEA Google Charts
+    url: /IT-systems/eea.googlecharts
   text: IT-systems
   url: /IT-systems
 - text: Development guidelines
