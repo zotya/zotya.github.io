@@ -77,6 +77,29 @@
     url: /IT-systems/eea.alchemy
   - source: generated
     subitems:
+    - text: Contents
+      url: /IT-systems/eea.annotator/#contents
+    - text: Main features
+      url: /IT-systems/eea.annotator/#main-features
+    - text: Install
+      url: /IT-systems/eea.annotator/#install
+    - text: Getting started
+      url: /IT-systems/eea.annotator/#getting-started
+    - subitems:
+      - text: Dexterity
+        url: /IT-systems/eea.annotator/#dexterity
+      text: Moderate inline comments
+      url: /IT-systems/eea.annotator/#moderate-inline-comments
+    - text: Source code
+      url: /IT-systems/eea.annotator/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.annotator/#copyright-and-license
+    - text: Funding
+      url: /IT-systems/eea.annotator/#funding
+    text: EEA Annotator
+    url: /IT-systems/eea.annotator
+  - source: generated
+    subitems:
     - text: Introduction
       url: /IT-systems/eea.daviz/#introduction
     - text: Main features
