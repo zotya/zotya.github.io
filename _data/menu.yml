@@ -101,6 +101,44 @@
   - source: generated
     subitems:
     - text: Introduction
+      url: /IT-systems/eea.cache/#introduction
+    - text: Contents
+      url: /IT-systems/eea.cache/#contents
+    - text: Main features
+      url: /IT-systems/eea.cache/#main-features
+    - text: Install
+      url: /IT-systems/eea.cache/#install
+    - text: Dependencies
+      url: /IT-systems/eea.cache/#dependencies
+    - text: Source code
+      url: /IT-systems/eea.cache/#source-code
+    - text: Cache decorator
+      url: /IT-systems/eea.cache/#cache-decorator
+    - subitems:
+      - text: Cache lifetime override per key
+        url: /IT-systems/eea.cache/#cache-lifetime-override-per-key
+      text: Cache lifetime
+      url: /IT-systems/eea.cache/#cache-lifetime
+    - subitems:
+      - text: memcache.invalidate
+        url: /IT-systems/eea.cache/#memcache.invalidate
+      - text: varnish.invalidate
+        url: /IT-systems/eea.cache/#varnish.invalidate
+      - text: cache.invalidate
+        url: /IT-systems/eea.cache/#cache.invalidate
+      - text: cache.settings
+        url: /IT-systems/eea.cache/#cache.settings
+      text: Invalidate cache
+      url: /IT-systems/eea.cache/#invalidate-cache
+    - text: Copyright and license
+      url: /IT-systems/eea.cache/#copyright-and-license
+    - text: Funding and project management
+      url: /IT-systems/eea.cache/#funding-and-project-management
+    text: EEA Cache
+    url: /IT-systems/eea.cache
+  - source: generated
+    subitems:
+    - text: Introduction
       url: /IT-systems/eea.daviz/#introduction
     - text: Main features
       url: /IT-systems/eea.daviz/#main-features
