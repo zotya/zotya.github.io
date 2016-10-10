@@ -49,6 +49,44 @@
   - source: generated
     subitems:
     - text: Introduction
+      url: /IT-systems/eea.daviz/#introduction
+    - text: Main features
+      url: /IT-systems/eea.daviz/#main-features
+    - text: Video Tutorials
+      url: /IT-systems/eea.daviz/#video-tutorials
+    - text: Live demos
+      url: /IT-systems/eea.daviz/#live-demos
+    - text: Architecture overview
+      url: /IT-systems/eea.daviz/#architecture-overview
+    - text: Installation
+      url: /IT-systems/eea.daviz/#installation
+    - subitems:
+      - subitems:
+        - text: Plone
+          url: /IT-systems/eea.daviz/#plone
+        - text: Zope
+          url: /IT-systems/eea.daviz/#zope
+        text: Google Maps API Key
+        url: /IT-systems/eea.daviz/#google-maps-api-key
+      text: zc.buildout
+      url: /IT-systems/eea.daviz/#zc.buildout
+    - text: Dependencies
+      url: /IT-systems/eea.daviz/#dependencies
+    - text: Source code
+      url: /IT-systems/eea.daviz/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.daviz/#copyright-and-license
+    - text: More documentation
+      url: /IT-systems/eea.daviz/#more-documentation
+    - text: Links
+      url: /IT-systems/eea.daviz/#links
+    - text: Funding and project management
+      url: /IT-systems/eea.daviz/#funding-and-project-management
+    text: EEA Daviz
+    url: /IT-systems/eea.daviz
+  - source: generated
+    subitems:
+    - text: Introduction
       url: /IT-systems/eea.googlecharts/#introduction
     - text: Main features
       url: /IT-systems/eea.googlecharts/#main-features
