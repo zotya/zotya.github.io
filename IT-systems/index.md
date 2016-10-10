@@ -15,6 +15,7 @@ Table of systems, sortable?
 * EEA Annotator
 * EEA Cache
 * EEA Daviz
+* EEA Depiction
 * EEA Google Charts
 * EEA Sparql
 <div style="display:none" class="generated_end">generated items end</div>

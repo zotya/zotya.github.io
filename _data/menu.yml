@@ -177,6 +177,28 @@
   - source: generated
     subitems:
     - text: Introduction
+      url: /IT-systems/eea.depiction/#introduction
+    - text: Upgrade notes
+      url: /IT-systems/eea.depiction/#upgrade-notes
+    - text: Installation
+      url: /IT-systems/eea.depiction/#installation
+    - text: zc.buildout
+      url: /IT-systems/eea.depiction/#zc.buildout
+    - text: How to specify fallback preview images
+      url: /IT-systems/eea.depiction/#how-to-specify-fallback-preview-images
+    - text: Dependencies
+      url: /IT-systems/eea.depiction/#dependencies
+    - text: Source code
+      url: /IT-systems/eea.depiction/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.depiction/#copyright-and-license
+    - text: Funding and project management
+      url: /IT-systems/eea.depiction/#funding-and-project-management
+    text: EEA Depiction
+    url: /IT-systems/eea.depiction
+  - source: generated
+    subitems:
+    - text: Introduction
       url: /IT-systems/eea.googlecharts/#introduction
     - text: Main features
       url: /IT-systems/eea.googlecharts/#main-features
