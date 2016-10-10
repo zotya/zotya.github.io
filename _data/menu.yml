@@ -102,6 +102,26 @@
       url: /IT-systems/eea.googlecharts/#funding
     text: EEA Google Charts
     url: /IT-systems/eea.googlecharts
+  - source: generated
+    subitems:
+    - text: Introduction
+      url: /IT-systems/eea.sparql/#introduction
+    - text: Main features
+      url: /IT-systems/eea.sparql/#main-features
+    - text: Installation
+      url: /IT-systems/eea.sparql/#installation
+    - text: Dependecies
+      url: /IT-systems/eea.sparql/#dependecies
+    - text: Source code
+      url: /IT-systems/eea.sparql/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.sparql/#copyright-and-license
+    - text: Links
+      url: /IT-systems/eea.sparql/#links
+    - text: Funding
+      url: /IT-systems/eea.sparql/#funding
+    text: EEA Sparql
+    url: /IT-systems/eea.sparql
   text: IT-systems
   url: /IT-systems
 - text: Development guidelines
