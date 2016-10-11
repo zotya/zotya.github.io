@@ -100,6 +100,24 @@
     url: /IT-systems/eea.annotator
   - source: generated
     subitems:
+    - text: Installation
+      url: /IT-systems/eea.app.visualization/#installation
+    - text: Dependencies
+      url: /IT-systems/eea.app.visualization/#dependencies
+    - text: Live demo
+      url: /IT-systems/eea.app.visualization/#live-demo
+    - text: Source code
+      url: /IT-systems/eea.app.visualization/#source-code
+    - text: Copyright and license
+      url: /IT-systems/eea.app.visualization/#copyright-and-license
+    - text: Links
+      url: /IT-systems/eea.app.visualization/#links
+    - text: Funding
+      url: /IT-systems/eea.app.visualization/#funding
+    text: EEA App Visualization
+    url: /IT-systems/eea.app.visualization
+  - source: generated
+    subitems:
     - text: Introduction
       url: /IT-systems/eea.cache/#introduction
     - text: Contents
